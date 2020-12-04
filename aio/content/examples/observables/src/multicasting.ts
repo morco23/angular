@@ -152,8 +152,8 @@ export function docRegionMulticastSequence(console) {
   // (at 2 seconds): 1st subscribe: 2
   // (at 2 seconds): 2nd subscribe: 2
   // (at 3 seconds): 1st subscribe: 3
-  // (at 3 seconds): 1st sequence finished
   // (at 3 seconds): 2nd subscribe: 3
+  // (at 3 seconds): 1st sequence finished
   // (at 3 seconds): 2nd sequence finished
 
   // #enddocregion multicast_sequence
